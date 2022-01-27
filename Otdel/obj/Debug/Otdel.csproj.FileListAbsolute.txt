@@ -1,0 +1,14 @@
+C:\Users\Kamushafuto\source\repos\Otdel\Otdel\obj\Debug\Otdel.csproj.AssemblyReference.cache
+C:\Users\Kamushafuto\source\repos\Otdel\Otdel\obj\Debug\Otdel.Form1.resources
+C:\Users\Kamushafuto\source\repos\Otdel\Otdel\obj\Debug\Otdel.Form2.resources
+C:\Users\Kamushafuto\source\repos\Otdel\Otdel\obj\Debug\Otdel.Properties.Resources.resources
+C:\Users\Kamushafuto\source\repos\Otdel\Otdel\obj\Debug\Otdel.csproj.GenerateResource.cache
+C:\Users\Kamushafuto\source\repos\Otdel\Otdel\obj\Debug\Otdel.csproj.CoreCompileInputs.cache
+C:\Users\Kamushafuto\source\repos\Otdel\Otdel\bin\Debug\Otdel.exe.config
+C:\Users\Kamushafuto\source\repos\Otdel\Otdel\bin\Debug\Otdel.exe
+C:\Users\Kamushafuto\source\repos\Otdel\Otdel\bin\Debug\Otdel.pdb
+C:\Users\Kamushafuto\source\repos\Otdel\Otdel\obj\Debug\Otdel.exe
+C:\Users\Kamushafuto\source\repos\Otdel\Otdel\obj\Debug\Otdel.pdb
+C:\Users\Kamushafuto\source\repos\Otdel\Otdel\obj\Debug\Otdel.Form3.resources
+C:\Users\Kamushafuto\source\repos\Otdel\Otdel\obj\Debug\Otdel.Form4.resources
+C:\Users\Kamushafuto\source\repos\Otdel\Otdel\obj\Debug\Otdel.Form5.resources
